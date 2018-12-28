@@ -1,0 +1,51 @@
+body {
+  background-image: url(https://s3.pixers.pics/pixers/700/FO/11/48/96/29/6/700_FO114896296_b5b6ecc4a62a71788e31cb585906c99e.jpg);
+}
+
+#tjt0010 {
+  color: black;
+}
+header.jumbotron.my-4 {
+  background-color: black;
+}
+h1{
+  color:white
+}
+#dedo{
+  color:white
+}
+a.btn-primary{
+  background-color: red
+
+}
+a.btn-primary{
+  border-color: red
+}
+div.card{
+  background-color: black
+}
+p{
+  color: white
+}
+h4{
+  color: white
+}
+
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #black;
+  border: solid 1px #black;
+  background-color: black !important;
+  color: white !important;
+
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+  }
+
+  h5{
+    color:white;
+  }
